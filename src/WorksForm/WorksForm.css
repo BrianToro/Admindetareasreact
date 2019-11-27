@@ -1,0 +1,16 @@
+.worksForm input[type = "text"]{
+    padding: 2%;
+    width: 15%;
+
+}
+
+.worksForm button{
+    padding: 2%;
+    color: #000;
+    background-color: 	#87CEFA;
+    border: none;
+}
+
+.worksForm button:hover {
+    background-color: #20B2AA;
+}
